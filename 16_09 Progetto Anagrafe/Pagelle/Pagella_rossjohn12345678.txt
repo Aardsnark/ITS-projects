@@ -1,0 +1,13 @@
+Studente: Ross John
+Classe: 4B
+
+MATERIA				Voto
+
+Letteratura			1
+Storia			9
+Grammatica			
+Filosofia			
+Matematica			
+Fisica			
+Chimica			
+Biologia			
